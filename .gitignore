@@ -1,0 +1,8 @@
+__pycache__/
+*.pyc
+
+env.json
+event.json
+encrypted.txt
+packaged.yaml
+
